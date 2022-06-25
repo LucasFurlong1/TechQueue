@@ -1,0 +1,43 @@
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.csproj.AssemblyReference.cache
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.csproj.GenerateResource.cache
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.AssemblyInfoInputs.cache
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.AssemblyInfo.cs
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.csproj.CoreCompileInputs.cache
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\MTechQueue.exe
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\MTechQueue.deps.json
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\MTechQueue.runtimeconfig.json
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\MTechQueue.runtimeconfig.dev.json
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\MTechQueue.dll
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\ref\MTechQueue.dll
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\MTechQueue.pdb
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.dll
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\ref\MTechQueue.dll
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.pdb
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.genruntimeconfig.cache
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.infoForm.resources
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.numberForm.resources
+C:\Users\troll\source\repos\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.viewForm.resources
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\MTechQueue.exe
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\MTechQueue.deps.json
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\MTechQueue.runtimeconfig.json
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\MTechQueue.runtimeconfig.dev.json
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\MTechQueue.dll
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\ref\MTechQueue.dll
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\MTechQueue.pdb
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.csproj.AssemblyReference.cache
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.infoForm.resources
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.numberForm.resources
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.viewForm.resources
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.csproj.GenerateResource.cache
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.AssemblyInfoInputs.cache
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.AssemblyInfo.cs
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.dll
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\ref\MTechQueue.dll
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.pdb
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.genruntimeconfig.cache
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\RestSharp.dll
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\bin\Debug\net5.0-windows\TextmagicRest.dll
+C:\Users\Lucas Furlong\source\repos\MTechQueue\MTechQueue\MTechQueue\obj\Debug\net5.0-windows\MTechQueue.csproj.CopyComplete

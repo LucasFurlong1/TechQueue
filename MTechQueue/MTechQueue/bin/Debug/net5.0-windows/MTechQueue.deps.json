@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MTechQueue/1.0.0": {
+        "dependencies": {
+          "TextmagicRest": "1.0.0.5"
+        },
+        "runtime": {
+          "MTechQueue.dll": {}
+        }
+      },
+      "RestSharp/105.1.0": {
+        "runtime": {
+          "lib/net452/RestSharp.dll": {
+            "assemblyVersion": "105.1.0.0",
+            "fileVersion": "105.1.0.0"
+          }
+        }
+      },
+      "TextmagicRest/1.0.0.5": {
+        "dependencies": {
+          "RestSharp": "105.1.0"
+        },
+        "runtime": {
+          "lib/net45/TextmagicRest.dll": {
+            "assemblyVersion": "1.0.0.5",
+            "fileVersion": "1.0.0.5"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MTechQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestSharp/105.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2DRH1cpTOJwesBOwQ0cIhVHUmupbRKt+tdSatfdvndvsawsGMIEgrbq8yv6g3GM1MRVcb37bT8LACVFsqITDmg==",
+      "path": "restsharp/105.1.0",
+      "hashPath": "restsharp.105.1.0.nupkg.sha512"
+    },
+    "TextmagicRest/1.0.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cjtG8pGAV8hNrqstU1vZVxcOE1XJoV6EU+O61apKD0Tp+AuUWkGC/iQuhCJMf7/w3Ja6Wh5SNLx33XjAzu3T5g==",
+      "path": "textmagicrest/1.0.0.5",
+      "hashPath": "textmagicrest.1.0.0.5.nupkg.sha512"
+    }
+  }
+}
